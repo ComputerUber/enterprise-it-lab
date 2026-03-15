@@ -1,43 +1,151 @@
-# Enterprise LAN Design Project
+Enterprise LAN Infrastructure Planning and Design
+Overview
 
-## Overview (English)
+This project presents the complete planning and design of a corporate Local Area Network (LAN) for a simulated company environment.
 
-This project presents the complete planning and design of a corporate Local Area Network (LAN).
+The objective was to design a secure, scalable and well-structured network infrastructure capable of supporting the company's operational needs, including internal communication, network services, data access and internet connectivity.
 
-The project includes:
+The project includes a 110-page technical report that documents all stages of the network planning and implementation process.
 
-- **Technical Report** – detailed documentation of the network design (approx. 110 pages)  
-- **Network Diagram** – created in Microsoft Visio, with a preview image  
-- **Packet Tracer Simulation** – logical network simulation with a preview screenshot  
-- **Rack Design** – infrastructure layout created in Visual Paradigm  
-- **Visual Assets** – Icograms and other custom images used in the simulation  
+The work covers the full lifecycle of a professional network deployment, including:
 
-The project demonstrates the full process of designing and planning a corporate network infrastructure, from site survey to deployment planning.
+Technical Site Survey
 
-**Project specification (enunciado)** is also included in the `enunciado/` folder.
+Network architecture design
 
-**Note:** All main documentation is written in Portuguese.
+Logical network topology
 
----
+Hardware acquisition planning
 
-# Projeto de Planeamento e Implementação de LAN Empresarial
+Software acquisition planning
 
-## Visão Geral (Português)
+Network services planning
 
-Este projeto apresenta o planeamento completo de uma rede LAN empresarial.
+Budget estimation
 
-Inclui:
+Implementation schedule
 
-- **Relatório Técnico** – documentação detalhada do design da rede (aprox. 110 páginas)  
-- **Diagrama de Rede** – criado no Microsoft Visio, com screenshot de visualização  
-- **Simulação Packet Tracer** – simulação lógica da rede, com screenshot de visualização  
-- **Design do Rack** – layout do armário de rede criado no Visual Paradigm  
-- **Assets Visuais** – Icograms e outras imagens personalizadas usadas na simulação  
+Infrastructure and rack planning
 
-O projeto demonstra todo o processo de planeamento e design de uma infraestrutura de rede empresarial, desde o site survey até ao planeamento da implementação.
+This project demonstrates the complete methodology used in enterprise network planning, from requirements analysis to deployment planning.
 
-O **enunciado do projeto** está incluído na pasta `enunciado/`.
+Project Components
 
----
+The repository includes several assets used during the design and planning process:
 
-## Project Structure / Estrutura do Projeto
+Technical Report
+
+The full documentation of the project.
+
+report/enterprise-lan-design-report.pdf
+
+Contents include:
+
+Site Survey
+
+Network requirements analysis
+
+Infrastructure planning
+
+Hardware and software acquisition planning
+
+Budget estimation
+
+Implementation timeline
+
+Network Diagram
+
+Logical network diagram created using Microsoft Visio.
+
+diagram/network-diagram.vsdx
+
+A preview image is also provided for quick viewing.
+
+Packet Tracer Simulation
+
+Network topology simulation created using Cisco Packet Tracer.
+
+packet-tracer/enterprise-lan-simulation.pkt
+
+A screenshot of the topology is included for easier visualization.
+
+Visual Assets
+
+Custom graphical resources used during the simulation and infrastructure visualization.
+
+images/
+
+This folder includes:
+
+Icograms network icons used in the Packet Tracer environment
+
+Rack infrastructure design created with Visual Paradigm
+
+Project Specification
+
+Original project instructions provided for the assignment.
+
+enunciado/project-specification.pdf
+
+Repository Structure
+
+enterprise-lan-design/
+
+README.md
+
+report/
+└── enterprise-lan-design-report.pdf
+
+enunciado/
+└── project-specification.pdf
+
+diagram/
+├── network-diagram.vsdx
+└── network-diagram-preview.png
+
+packet-tracer/
+├── enterprise-lan-simulation.pkt
+└── topology-preview.png
+
+images/
+├── rack-design.png
+└── network-icons/
+
+Language
+
+The main documentation of this project is written in Portuguese.
+
+Planeamento e Implementação de Rede LAN Empresarial
+Visão Geral
+
+Este projeto apresenta o planeamento completo de uma rede local (LAN) para uma empresa simulada.
+
+O objetivo foi projetar uma infraestrutura de rede segura, escalável e bem estruturada, capaz de suportar as necessidades operacionais da organização.
+
+O projeto inclui um relatório técnico detalhado com cerca de 110 páginas, onde são documentadas todas as fases do planeamento e preparação da implementação da infraestrutura de rede.
+
+O trabalho inclui:
+
+Site Survey técnico
+
+Planeamento da arquitetura da rede
+
+Topologia lógica da rede
+
+Planeamento de aquisição de hardware
+
+Planeamento de aquisição de software
+
+Planeamento de serviços de rede
+
+Estimativa de orçamento
+
+Cronograma de implementação
+
+Planeamento da infraestrutura e rack de rede
+
+Este projeto demonstra todo o processo de planeamento de uma infraestrutura de rede empresarial, desde a análise de requisitos até ao planeamento da implementação.
+
+Idioma
+
+A documentação principal do projeto encontra-se em Português.
