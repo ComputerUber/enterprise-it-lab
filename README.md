@@ -10,7 +10,6 @@ The projects go beyond basic academic requirements, including advanced configura
 
 * Enterprise network design (LAN/WAN)
 * VLAN segmentation and network isolation
-* pfSense firewall configuration with IDS/IPS
 * VPN implementation (site-to-site and remote access)
 * Dynamic routing (RIP)
 * Active Directory deployment and management
@@ -49,7 +48,6 @@ Os projetos vão além dos requisitos académicos básicos, incluindo configura�
 
 * Desenho de redes empresariais (LAN/WAN)
 * Segmentação por VLAN e isolamento de rede
-* Configuração de firewall pfSense com IDS/IPS
 * Implementação de VPN (site-to-site e acesso remoto)
 * Routing dinâmico (RIP)
 * Implementação e gestão de Active Directory
